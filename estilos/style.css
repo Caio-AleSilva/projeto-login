@@ -81,6 +81,19 @@ div.campo > label {
     display: none;
 }
 
+div.campo > span {
+    color: white;
+    background-color: black;
+    font-size: 2em;
+    width: 40px;
+    padding: 5px;
+ 
+}
+
+div.campo > input {
+    border-color:#192222;
+}
+
 form > input[type=submit] {
     display: block;
     font-size: 1em;
@@ -118,8 +131,8 @@ form >a.botao:hover{
 form > a.botao > span {
     font-size: 0.9em;
 
-    
 }
+
      
 
  
